@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+}
+
+nav {
+    background-color: rgba(250, 235, 215, 0.285);
+}
+
+nav:hover {
+    background-color: antiquewhite;
+    transition: .3s;
+}
+
+p,
+div.display-4 {
+    color: rgb(140, 62, 169);
+}
